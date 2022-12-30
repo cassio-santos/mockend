@@ -1,0 +1,22 @@
+{
+  "Habbit": {
+    "Id": {
+      "int": {
+        "min": 1,
+        "max": 254358925
+      }
+    },
+    "Name": {
+      "string": {}
+    },
+    "WeeklyRecurrence": {
+      "int": {
+        "min": 1,
+        "max": 7
+      }
+    },
+    "Description": {
+      "string":  {}
+    }
+  }
+}
